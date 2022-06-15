@@ -1,0 +1,6 @@
+name: App
+version: '1.0'
+main: com.lusqua.sparkapi.app.App
+api-version: 1.19
+authors: [ lusqua ]
+description: this is a simple spark api running in a thread.
